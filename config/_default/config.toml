@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://github.com/ALDonzel/archives-mediation/"
+baseurl = "https://aldonzel.github.io/archives-mediation"
 languageCode = "fr"
 paginate = 5
 title = "Test theme hugo"
