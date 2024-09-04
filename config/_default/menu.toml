@@ -15,3 +15,10 @@ url = "https://github.com/ALDonzel"
 [social.params]
 icon = "brand-github"
 
+[[social]]
+identifier = "mastodon"
+name = "Mastodon"
+url = "https://github.com/ALDonzel"
+
+[social.params]
+icon = "brand-mastodon"
