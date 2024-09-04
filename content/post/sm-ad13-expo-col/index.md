@@ -1,7 +1,7 @@
 ---
 title: Une story map des AD13
-description: Un bel exemple de storymap sur l'exposition coloniale de Marseille de 1922
-slug: sm-ad13
+description: Storymap sur l'exposition coloniale de Marseille de 1922
+slug: sm-ad13-expo-col
 date: 2024-09-04 00:00:00+0000
 image: ad13-sm-expo-col.png
 categories:
