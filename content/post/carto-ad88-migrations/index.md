@@ -12,4 +12,4 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Cartographie réalisée par les [AD des Vosges](https://archives.vosges.fr/action-culturelle/ressources-numeriques/articleid/1859/la-carte-interactive-des-migrations), dans le cadre de l'exposition *Posez vos valises* en 2021. 
+Cartographie réalisée par les [AD des Vosges](https://archives.vosges.fr/action-culturelle/ressources-numeriques/articleid/1859/la-carte-interactive-des-migrations), dans le cadre de l'exposition *Posez vos valises* en 2021.
